@@ -2,43 +2,55 @@
 
 **Sofia TECH Meetup**
 
+---
+
 ## `--patch`
 
-Do things in hunks
+**Do things in hunks**
 
 - git add --patch
 - git reset --patch
 - git stash save --patch
 - git checkout --patch
 
+---
+
 ## `--interactive`
 
-Git is interactive
+**Git is interactive**
 
 - git add --interactive
 
 - git rebase --interactive
 
+---
+
 ## Aliases
 
-Help
+**Git at your fingertips**
 
-- aliases
+- shortcuts
 - amend
 - l, lg
 - local
 - publish
 - report
 - sync
+- standup
+
+---
 
 ## `git-reflog`
 
-Problem fixer
+**SH*T happens**
 
+---
 
 ## `diff-so-fancy`
 
 https://github.com/so-fancy/diff-so-fancy
+
+---
 
 ## `.gitattributes`
 
@@ -46,13 +58,27 @@ https://github.com/so-fancy/diff-so-fancy
 - better hunk headers
 - export-ignore
 
+---
+
 ## `hub`
 
 https://hub.github.com/
 
+---
+
 ## `git-mergetool`
+
+**Resolve conflicts with grace**
+
+---
 
 ## `git-bisect`
 
+**Find what caused the bug**
+
+---
+
 ## Global `.gitignore`
+
+**Ignore things everywhere**
 

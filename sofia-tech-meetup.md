@@ -4,18 +4,24 @@
 
 ## `--patch`
 
+Do things in hunks
+
 - git add --patch
 - git reset --patch
 - git stash save --patch
 - git checkout --patch
 
-# `--interactive`
+## `--interactive`
+
+Git is interactive
 
 - git add --interactive
 
 - git rebase --interactive
 
-# Aliases
+## Aliases
+
+Help
 
 - aliases
 - amend
@@ -25,18 +31,28 @@
 - report
 - sync
 
-# `git-reflog (1)`
+## `git-reflog`
 
-# `diff-so-fancy`
+Problem fixer
 
-.gitattributes - export-ignore, better hunk headers, image diffs
 
-hub
+## `diff-so-fancy`
 
-git mergetool
+https://github.com/so-fancy/diff-so-fancy
 
-git shortlog
+## `.gitattributes`
 
-git bisect
+- image diffs
+- better hunk headers
+- export-ignore
 
-global .gitignore
+## `hub`
+
+https://hub.github.com/
+
+## `git-mergetool`
+
+## `git-bisect`
+
+## Global `.gitignore`
+

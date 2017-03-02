@@ -1,3 +1,5 @@
+
+
 # Git - Advanced tips & tricks
 
 **Sofia TECH Meetup**
@@ -82,3 +84,8 @@ https://hub.github.com/
 
 **Ignore things everywhere**
 
+---
+
+# Where to find all this?
+
+https://github.com/hkdobrev/dotfiles
